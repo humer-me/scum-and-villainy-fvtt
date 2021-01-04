@@ -6,7 +6,7 @@ To install and use this module in FVTT, simply paste the following URL into the 
 
 https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/main/module.json
 
-If you wish to manually install the system, you must clone or extract it into the `Data/modules/scum-and-villainy-fvtt folder`. You may do this by cloning the repository or downloading it as a zip archive.
+If you wish to manually install the module, you must clone or extract it into the `Data/modules/scum-and-villainy-fvtt` folder. You may do this by cloning the repository or downloading it as a zip archive.
 
 I've also included an edited en.json file in this repository. This file can replace the default English localization file in the BitD system files in order to rename player skills to match their Scum and Villainy counterparts (e.g. "Hunt" will become "Doctor") To use this file, download it and replace the standard system en.json file located in `Data/systems/blades-in-the-dark\lang`.
 
