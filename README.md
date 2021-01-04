@@ -4,7 +4,7 @@ This module adds compendium data for running Scum and Villainy in Foundry Virtua
 # Installation
 To install and use this module in FVTT, simply paste the following URL into the Install Module dialog on the Setup menu of the application.
 
-https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/master/module.json
+https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/main/module.json
 
 If you wish to manually install the system, you must clone or extract it into the `Data/modules/scum-and-villainy-fvtt folder`. You may do this by cloning the repository or downloading it as a zip archive.
 
