@@ -1,8 +1,12 @@
 # Foundry VTT Scum and Villainy Conversion
-This module adds compendium data for running Scum and Villainy in Foundry Virtual Tabletop. Intended for worlds running the [Blades in the Dark system](https://github.com/megastruktur/foundryvtt-blades-in-the-dark).
+This module adds compendium data for running Scum and Villainy in Foundry Virtual Tabletop (FVTT). Intended for worlds running the [Blades in the Dark system](https://github.com/megastruktur/foundryvtt-blades-in-the-dark).
 
-# How to Use
+# Installation
+To install and use this module in FVTT, simply paste the following URL into the Install Module dialog on the Setup menu of the application.
 
+https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/master/module.json
+
+If you wish to manually install the system, you must clone or extract it into the Data/modules/scum-and-villainy-fvtt folder. You may do this by cloning the repository or downloading the module as a zip archive.
 
 # To-Do List
 * Add a method for displaying ship sheets (convert BitD crew sheet)
