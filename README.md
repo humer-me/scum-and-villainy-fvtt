@@ -16,6 +16,7 @@ If you wish to manually install the system, you must clone or extract it into th
 
 # Credits
 This work is based on Scum and Villainy (found at https://www.evilhat.com/home/scum-and-villainy/), product of Evil Hat Games, developed and authored by Stras Acimovic and John LeBoeuf-Little. 
+
 This module uses only the publicly-available data from Scum and Villainy's GM and Player Sheets (available at https://www.evilhat.com/home/scum-and-villainy-downloads/) and used here under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 The conversion for this system would not have been possible without the work of [megastruktur](https://github.com/megastruktur) in adapting Blades in the Dark to Foundry VTT.
