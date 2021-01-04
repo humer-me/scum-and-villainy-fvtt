@@ -1,5 +1,5 @@
 # Foundry VTT Scum and Villainy Conversion
-This module adds compendium data for running Scum and Villainy in Foundry Virtual Tabletop (FVTT). Intended for worlds running the [Blades in the Dark system](https://github.com/megastruktur/foundryvtt-blades-in-the-dark).
+This module adds compendium data for running Scum and Villainy in Foundry Virtual Tabletop (FVTT). Intended for worlds running the [Blades in the Dark (BitD) system](https://github.com/megastruktur/foundryvtt-blades-in-the-dark).
 
 # Installation
 To install and use this module in FVTT, simply paste the following URL into the Install Module dialog on the Setup menu of the application.
@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/main/module.js
 
 If you wish to manually install the system, you must clone or extract it into the `Data/modules/scum-and-villainy-fvtt folder`. You may do this by cloning the repository or downloading it as a zip archive.
 
-Additionally, I've included an edited en.json file in this repository. This file is intended to replace the default English localization file in the Blades in the Dark system files in order to rename the BitD skills to match their Scum and Villainy counterparts ("Hunt" will become "Doctor" etc.) To use this file, download it and replace the standard system en.json file located in `Data/systems/blades-in-the-dark\lang`.
+I've also included an edited en.json file in this repository. This file can replace the default English localization file in the BitD system files in order to rename player skills to match their Scum and Villainy counterparts (e.g. "Hunt" will become "Doctor") To use this file, download it and replace the standard system en.json file located in `Data/systems/blades-in-the-dark\lang`.
 
 # To-Do List
 * Add a method for displaying ship sheets (convert BitD crew sheet)
