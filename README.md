@@ -6,7 +6,9 @@ To install and use this module in FVTT, simply paste the following URL into the 
 
 https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/master/module.json
 
-If you wish to manually install the system, you must clone or extract it into the Data/modules/scum-and-villainy-fvtt folder. You may do this by cloning the repository or downloading the module as a zip archive.
+If you wish to manually install the system, you must clone or extract it into the `Data/modules/scum-and-villainy-fvtt folder`. You may do this by cloning the repository or downloading it as a zip archive.
+
+Additionally, I've included an edited en.json file in this repository. This file is intended to replace the default English localization file in the Blades in the Dark system files in order to rename the BitD skills to match their Scum and Villainy counterparts ("Hunt" will become "Doctor" etc.) To use this file, download it and replace the stock en.json file, located in `Data/systems/blades-in-the-dark\lang`
 
 # To-Do List
 * Add a method for displaying ship sheets (convert BitD crew sheet)
