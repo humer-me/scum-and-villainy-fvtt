@@ -1,0 +1,60 @@
+{   
+   "name": "scum-and-villainy-fvtt",   
+   "title": "Scum and Villainy Data (BitD)",   
+   "description": "Adds data for running Scum and Villainy through the use of compendia. Intended for worlds running the Blades in the Dark system.",   
+   "author": "humer-me",
+   "version": "0.1.0",
+   "minimumCoreVersion": "0.7.0",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "sv-abilities",
+      "label": "SV Abilities",
+      "path": "packs/sv-abilities.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+    {
+      "name": "sv-backgrounds",
+      "label": "SV Backgrounds",
+      "path": "packs/sv-backgrounds.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+    {
+      "name": "sv-classes",
+      "label": "SV Classes",
+      "path": "packs/sv-classes.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+	{
+      "name": "sv-heritages",
+      "label": "SV Heritages",
+      "path": "packs/sv-heritages.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+	{
+      "name": "sv-items",
+      "label": "SV Items",
+      "path": "packs/sv-items.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+	{
+      "name": "sv-vices",
+      "label": "SV Vices",
+      "path": "packs/sv-vices.db",
+      "entity": "Item",
+      "module": "scum-and-villainy-fvtt"
+    },
+	{
+      "name": "sv-places",
+      "label": "SV Places",
+      "path": "packs/sv-places.db",
+      "entity": "JournalEntry",
+      "module": "scum-and-villainy-fvtt"
+    }
+  ]
+ }
