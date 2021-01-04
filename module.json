@@ -6,6 +6,9 @@
    "version": "0.1.0",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion":"0.7.9",
+   "url": "https://github.com/humer-me/scum-and-villainy-fvtt",
+   "manifest": "https://raw.githubusercontent.com/humer-me/scum-and-villainy-fvtt/main/module.json",
+   "download": "https://github.com/humer-me/scum-and-villainy-fvtt/archive/main.zip",
    "packs": [
     {
       "name": "sv-abilities",
